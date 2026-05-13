@@ -1,4 +1,4 @@
-# 
+# Obsidian for Windows professional Plugin: dark-mode & math-equations offers the most advanced Obsidian for Windows plugin, with dark-mode and math-equations. Ideal for Windows
 
 
 
